@@ -2,7 +2,7 @@
 
 set -e
 
-SRC=asdfasdf
+SRC=https://github.com/parkerkane/shellstuff.git
 
 if [ -d "/vagrant" ]; then
   SRC=/vagrant
